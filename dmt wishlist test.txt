@@ -1,0 +1,26 @@
+title:Tex Mechanica Exotics
+
+// Dead Man's Tale - Vorpal ()
+dimwishlist:item=3654674561&perks=346519846,1546637391
+dimwishlist:item=3654674561&perks=1067908860,1546637391
+dimwishlist:item=3654674561&perks=990298390,1546637391
+dimwishlist:item=3654674561&perks=1546637391
+
+// Dead Man's Tale - Fourth Time's the Charm ()
+dimwishlist:item=3654674561&perks=346519846,1354429876
+dimwishlist:item=3654674561&perks=1067908860,1354429876
+dimwishlist:item=3654674561&perks=990298390,1354429876
+dimwishlist:item=3654674561&perks=1354429876
+
+
+// Dead Man's Tale - Outlaw ()
+dimwishlist:item=3654674561&perks=346519846,1168162263
+dimwishlist:item=3654674561&perks=1067908860,1168162263
+dimwishlist:item=3654674561&perks=990298390,1168162263
+dimwishlist:item=3654674561&perks=1168162263
+
+
+//Hawkmoon ()
+dimwishlist:item=3856705927&perks=2846385770
+dimwishlist:item=3856705927&perks=47981717
+dimwishlist:item=3856705927&perks=2450788523
